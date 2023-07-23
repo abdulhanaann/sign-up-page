@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+}
+
+
+div{
+    margin: auto;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 25px;
+    width: 400px;
+    height: 430px;
+    margin-top: 70px;
+}
+
+
+h1{
+    text-align: center;
+}
+.abc{
+    display: inline-block
+}
